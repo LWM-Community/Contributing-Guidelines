@@ -7,17 +7,6 @@ So here you go! 🙂
 
 ##  How to Contribute?
 
-**The format you can follow while contributing is:**
-
-# Steps to follow: 
-
-# Resources to Learn From:
-
-# Some Youtube Channels to Follow:
-
-# Some projects to look into:
-
-
 ### For a successful contribution you must have to follow these steps: 
 - Before you start, first create an [issue](https://github.com/LWM-Community/Resources-for-All-you-need/issues).
 - Fork the Repo and create a Branch for any Issue that you are working upon.
